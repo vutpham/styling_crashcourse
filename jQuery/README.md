@@ -72,3 +72,49 @@ Below methods are useful for applying styling to elements.
 * `.addClass()`
 * `.removeClass()`
 * `.toggleClass()`
+
+## jQuery Events
+
+* `.click()`
+
+```javascript
+// prints when item with id 'select' is clicked
+  $('select').click(function () {
+    console.log('Another click');
+  })
+
+// alerts when ANY button is clicked
+  $('button').click(function () {
+    alert('Someone clicked a button');
+  })
+```
+
+* `.keypress()`
+
+```javascript
+$('input').keypress(function (event) {
+    if (event.keycode === 13) {
+      console.log("You hit enter!");
+    }
+})
+```
+
+* `.on()` -- jQuery's on() works similarly to *addEventListener()*. It lets you specify the type of event to listen for.
+
+```javascript
+$("#submit").on("click", function () {
+  console.log('Another click');
+})
+
+$("button").on("click", function () {
+  console.log('Button clicked');
+})
+```
+
+## jQuery Effects
+
+* `.fadeIn()`
+* `.fadeOut()`
+* `.fadeToggle()`
+* `.slideDown()`
+* `.slideUp()`
