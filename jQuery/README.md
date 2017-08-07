@@ -31,3 +31,20 @@ Code that is written by somebody else, but is able to be added to our projects.
 - You can do all that jQuery does on your own
 - It's an unnecessary dependency
 - Performance
+
+## jQuery Preview
+
+```javascript
+// when a user clicks on a button with id trigger
+$('#trigger').click(function() {
+
+  // change the body's background to yellow
+  $('body').css('background', 'yellow');
+
+  // Fade out all imgs over 3 seconds
+  $('img').fadeOut(3000, function(){
+    // Remove images from page when fadeOut is done
+    $(this).remove();
+  })
+});
+```
