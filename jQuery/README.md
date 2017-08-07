@@ -48,3 +48,27 @@ $('#trigger').click(function() {
   })
 });
 ```
+
+## Methods (Demo)
+
+* CSS Selectors
+
+```javascript
+$("div").css("background-color", "purple");
+$(".highlight").css("width", "200px");
+$("#third").css("border", "2px orange dashed");
+
+let first = $("div")[0];
+
+$(first).css("color", "pink");
+```
+
+* `.text()` and `.html()` -- know what HTMLsafe means
+* `.attr()` -- to get to set an attribute value such as "type", "src", "href", etc
+* `.val()` -- to get or set current value of a form or dropdown
+
+Below methods are useful for applying styling to elements.
+
+* `.addClass()`
+* `.removeClass()`
+* `.toggleClass()`
