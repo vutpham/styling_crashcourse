@@ -1,0 +1,24 @@
+Started GET "/" for ::1 at 2018-02-01 18:56:59 -0800
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from block (3 levels) in <class:Railtie> at /Users/vu.pham/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/activerecord-5.0.6/lib/active_record/railtie.rb:113)
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.6ms)
+  Rendered shared/_masthead.html.erb (0.5ms)
+  Rendered shared/_sections_nav.html.erb (0.7ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (28.6ms)
+Completed 200 OK in 681ms (Views: 677.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-4eafe0f997f43f752e35ca399ddd32aae76c9f354b7adaf189cd5aeb1bf39912.css?body=1" for ::1 at 2018-02-01 18:57:00 -0800
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2018-02-01 18:57:00 -0800
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2018-02-01 18:57:00 -0800
+Started GET "/assets/components/dropdown.self-815016af6fab1d5b72abd319213bf62f0c42bab2c585d2e059543ae704a0d74c.js?body=1" for ::1 at 2018-02-01 18:57:00 -0800
+Started GET "/assets/components/modal.self-52188644dbb47def5ee35ae02e69eb567ca9b664472357a8a5789dd39032a265.js?body=1" for ::1 at 2018-02-01 18:57:00 -0800
+Started GET "/assets/components/sidebar.self-2a1277f850a6fa21e1a974ef5152f177ac05516477d5081d593bb137b3d6808b.js?body=1" for ::1 at 2018-02-01 18:57:00 -0800
+Started GET "/assets/application.self-f571b9db02bf4ed04c38a6a29072ac382f7d4f47db1fab9817aeadb0d8665235.js?body=1" for ::1 at 2018-02-01 18:57:00 -0800
+Started GET "/assets/application.self-4eafe0f997f43f752e35ca399ddd32aae76c9f354b7adaf189cd5aeb1bf39912.css?body=1&livereload=1517541134548" for ::1 at 2018-02-01 19:12:14 -0800
+Started GET "/assets/application.self-4eafe0f997f43f752e35ca399ddd32aae76c9f354b7adaf189cd5aeb1bf39912.css?body=1&livereload=1517541134551" for ::1 at 2018-02-01 19:12:14 -0800
+Started GET "/assets/application.self-4eafe0f997f43f752e35ca399ddd32aae76c9f354b7adaf189cd5aeb1bf39912.css?body=1&livereload=1517541150591" for ::1 at 2018-02-01 19:12:30 -0800
+Started GET "/assets/application.self-4eafe0f997f43f752e35ca399ddd32aae76c9f354b7adaf189cd5aeb1bf39912.css?body=1&livereload=1517541150592" for ::1 at 2018-02-01 19:12:30 -0800
