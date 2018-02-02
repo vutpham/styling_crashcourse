@@ -527,3 +527,62 @@ Started GET "/assets/application.self-0dc745de247142ac1c3da378dac9645095e643f44d
 Started GET "/assets/application.self-0dc745de247142ac1c3da378dac9645095e643f44d410918f5dc20f69ba78856.css?body=1&livereload=1517559485839&livereload=1517559449936&livereload=1517559476013" for ::1 at 2018-02-02 00:18:05 -0800
 Started GET "/assets/application.self-0dc745de247142ac1c3da378dac9645095e643f44d410918f5dc20f69ba78856.css?body=1&livereload=1517559531219&livereload=1517559449936&livereload=1517559476013" for ::1 at 2018-02-02 00:18:51 -0800
 Started GET "/assets/application.self-0dc745de247142ac1c3da378dac9645095e643f44d410918f5dc20f69ba78856.css?body=1&livereload=1517559531221&livereload=1517559449936&livereload=1517559476013" for ::1 at 2018-02-02 00:18:51 -0800
+Started GET "/assets/application.self-0dc745de247142ac1c3da378dac9645095e643f44d410918f5dc20f69ba78856.css?body=1&livereload=1517559867224&livereload=1517559449936&livereload=1517559476013" for ::1 at 2018-02-02 00:24:27 -0800
+Started GET "/assets/application.self-0dc745de247142ac1c3da378dac9645095e643f44d410918f5dc20f69ba78856.css?body=1&livereload=1517559867228&livereload=1517559449936&livereload=1517559476013" for ::1 at 2018-02-02 00:24:27 -0800
+Started GET "/" for ::1 at 2018-02-02 00:24:29 -0800
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (15.8ms)
+Completed 200 OK in 58ms (Views: 55.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-fca7a699192d98f8094bd74763a2b82bf6f15e1c4ac0ec068ebbdbf6f9542cc7.css?body=1" for ::1 at 2018-02-02 00:24:29 -0800
+Started GET "/assets/application.self-fca7a699192d98f8094bd74763a2b82bf6f15e1c4ac0ec068ebbdbf6f9542cc7.css?body=1&livereload=1517559914642" for ::1 at 2018-02-02 00:25:14 -0800
+Started GET "/assets/application.self-fca7a699192d98f8094bd74763a2b82bf6f15e1c4ac0ec068ebbdbf6f9542cc7.css?body=1&livereload=1517559914645" for ::1 at 2018-02-02 00:25:14 -0800
+Started GET "/assets/application.self-fca7a699192d98f8094bd74763a2b82bf6f15e1c4ac0ec068ebbdbf6f9542cc7.css?body=1&livereload=1517559928573" for ::1 at 2018-02-02 00:25:28 -0800
+Started GET "/assets/application.self-fca7a699192d98f8094bd74763a2b82bf6f15e1c4ac0ec068ebbdbf6f9542cc7.css?body=1&livereload=1517559928574" for ::1 at 2018-02-02 00:25:28 -0800
+Started GET "/assets/application.self-fca7a699192d98f8094bd74763a2b82bf6f15e1c4ac0ec068ebbdbf6f9542cc7.css?body=1&livereload=1517559944176" for ::1 at 2018-02-02 00:25:44 -0800
+Started GET "/assets/application.self-fca7a699192d98f8094bd74763a2b82bf6f15e1c4ac0ec068ebbdbf6f9542cc7.css?body=1&livereload=1517559944177" for ::1 at 2018-02-02 00:25:44 -0800
+Started GET "/assets/application.self-fca7a699192d98f8094bd74763a2b82bf6f15e1c4ac0ec068ebbdbf6f9542cc7.css?body=1&livereload=1517559947054" for ::1 at 2018-02-02 00:25:47 -0800
+Started GET "/assets/application.self-fca7a699192d98f8094bd74763a2b82bf6f15e1c4ac0ec068ebbdbf6f9542cc7.css?body=1&livereload=1517559947059" for ::1 at 2018-02-02 00:25:47 -0800
+Started GET "/" for ::1 at 2018-02-02 00:25:50 -0800
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.8ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (13.2ms)
+Completed 200 OK in 40ms (Views: 36.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-5ba5a5f2d6e0375a103af0ee949c3aefc54436ea12a55719cb6f38885e3eae27.css?body=1" for ::1 at 2018-02-02 00:25:50 -0800
+Started GET "/assets/application.self-5ba5a5f2d6e0375a103af0ee949c3aefc54436ea12a55719cb6f38885e3eae27.css?body=1&livereload=1517559980523" for ::1 at 2018-02-02 00:26:20 -0800
+Started GET "/assets/application.self-5ba5a5f2d6e0375a103af0ee949c3aefc54436ea12a55719cb6f38885e3eae27.css?body=1&livereload=1517559980527" for ::1 at 2018-02-02 00:26:20 -0800
+Started GET "/" for ::1 at 2018-02-02 00:26:25 -0800
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.5ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.7ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (14.3ms)
+Completed 200 OK in 41ms (Views: 37.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-41dadceaa409833597ce1e779518b4d19f7a6d22f0accd6d191797b8e46e9e22.css?body=1" for ::1 at 2018-02-02 00:26:25 -0800
+Started GET "/assets/application.self-41dadceaa409833597ce1e779518b4d19f7a6d22f0accd6d191797b8e46e9e22.css?body=1&livereload=1517559991455" for ::1 at 2018-02-02 00:26:31 -0800
+Started GET "/assets/application.self-41dadceaa409833597ce1e779518b4d19f7a6d22f0accd6d191797b8e46e9e22.css?body=1&livereload=1517559991453" for ::1 at 2018-02-02 00:26:31 -0800
+Started GET "/assets/application.self-41dadceaa409833597ce1e779518b4d19f7a6d22f0accd6d191797b8e46e9e22.css?body=1&livereload=1517559998557" for ::1 at 2018-02-02 00:26:38 -0800
+Started GET "/assets/application.self-41dadceaa409833597ce1e779518b4d19f7a6d22f0accd6d191797b8e46e9e22.css?body=1&livereload=1517559998559" for ::1 at 2018-02-02 00:26:38 -0800
+Started GET "/assets/application.self-41dadceaa409833597ce1e779518b4d19f7a6d22f0accd6d191797b8e46e9e22.css?body=1&livereload=1517560036686" for ::1 at 2018-02-02 00:27:16 -0800
+Started GET "/assets/application.self-41dadceaa409833597ce1e779518b4d19f7a6d22f0accd6d191797b8e46e9e22.css?body=1&livereload=1517560036687" for ::1 at 2018-02-02 00:27:16 -0800
+Started GET "/assets/application.self-41dadceaa409833597ce1e779518b4d19f7a6d22f0accd6d191797b8e46e9e22.css?body=1&livereload=1517560047739" for ::1 at 2018-02-02 00:27:27 -0800
+Started GET "/assets/application.self-41dadceaa409833597ce1e779518b4d19f7a6d22f0accd6d191797b8e46e9e22.css?body=1&livereload=1517560047739&livereload=1517560047739" for ::1 at 2018-02-02 00:27:27 -0800
